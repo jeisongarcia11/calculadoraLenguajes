@@ -1,0 +1,26 @@
+.navbar{
+    box-shadow: 2px 2px 5px #000;
+    opacity: .9;
+}
+
+.main-header{
+    background: url(../img/programacion.jpg);
+    background-size: cover;
+    min-height: 850px;
+}
+
+.result{
+    text-align: left;
+    padding-left: 30px;
+}
+
+footer{
+    bottom: 0;
+    background: rgb(36, 37, 37);
+    font-size: 20px;
+    padding-bottom: 0px;
+}
+
+.hidden{
+    padding-left: 30px;
+}
